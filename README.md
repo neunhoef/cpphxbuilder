@@ -1,5 +1,7 @@
 # cpphxbuilder
 
+This was completely vibe-coded by claude with a single prompt.
+
 A terminal TUI that builds your C++/clang project, shows a scrollable list of
 diagnostics, and lets you jump directly into Helix at the exact error location —
 then returns you to the TUI when you quit.
