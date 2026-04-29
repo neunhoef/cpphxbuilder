@@ -1,0 +1,10 @@
+[package]
+name = "cpphxbuilder"
+version = "0.1.0"
+edition = "2021"
+description = "TUI C++ build runner + error picker for Helix"
+
+[dependencies]
+regex = "1"
+ratatui = "0.26"
+crossterm = "0.27"
